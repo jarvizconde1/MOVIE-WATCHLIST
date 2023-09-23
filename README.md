@@ -59,8 +59,9 @@ This app lets you view and choose movies, you can add the movie to "watchlist" i
 
 ## Demo
 
-<img src="https://github.com/jarvizconde1/San-Bukas-/assets/102355807/115f4eeb-7d5d-4bd6-ad33-984df9dfc953" width="250"/>
-<img src="https://github.com/jarvizconde1/San-Bukas-/assets/102355807/9f27abfd-3b28-4776-a089-41327d7a29d0" width="250"/>
+<img src="https://github.com/jarvizconde1/MOVIE-WATCHLIST/assets/102355807/1f9d7eca-3e54-4d44-9770-c442f18bd864" width="250"/>
+<img src="https://github.com/jarvizconde1/MOVIE-WATCHLIST/assets/102355807/e049d27b-c722-4e47-8b68-03e6d2c8c483" width="250"/>
+
 
 
 
