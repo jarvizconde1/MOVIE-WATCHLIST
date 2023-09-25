@@ -28,7 +28,7 @@
 
 ## About
                                  
-This app lets you view and choose movies, you can add the movie to "watchlist" if you want to watch it soon.
+Movie Watchlist app is an app that helps you keep track of all the movies you want to watch. With its easy-to-use interface, you can quickly add movies to your watchlist, sort them by different criteria, and view detailed information about each movie.
 
 ## Built With
 * UIKit
